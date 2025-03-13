@@ -1,0 +1,6 @@
+framework module FPHILicenseManager {
+  umbrella header "FPHILicenseManager.h"
+  export *
+
+  module * { export * }
+}
